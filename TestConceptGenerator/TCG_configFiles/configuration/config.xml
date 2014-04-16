@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<configurationList>
+  <configuration key="ConfigurationSubDir" value="\configuration\" comment="name of the subdirectory that contains all configuration files" />
+  <configuration key="ConfigurationFilename" value="config.xml" comment="file name of the XML file that holds the main configuration values" />
+  <configuration key="TestprocedureCategoriesDefinitionFilename" value="testprocedure_categories_definitions.xml" comment="file name of the XML file that holds the definitions of testprocedure categories" />
+  <configuration key="ExcelOverviewTemplateSubDir" value="\templates\TestingOverviewTemplate\" comment="name of the subdirectory that contains the Testing Overview template" />
+  <configuration key="ExcelOverviewTemplateFilename" value="testing_overview_v1.2_template.xltm" comment="file name of the Excel Template that is used as Testing Overview template" />
+  <configuration key="ExcelOverviewTemplateConfig" value="testing_overview_v1.2_config.xml" comment="file name of the XML file that is holds information about the used Testing Overview template" />
+  <configuration key="TestProcedureCatalogSubDir" value="\catalog\" comment="name of the subdirectory that contains the Test Procedure catalog" />
+  <configuration key="TestProcedureCatalogFilename" value="testprocedure_catalog.tpcatalog" comment="file name of the Test Procedure catalog" />
+</configurationList>

@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<categoryTree>
+  <mainCategory ID="-1" name="Electrical" number="1">
+    <category ID="-1" name="Run-up Tests" number="1" />
+    <category ID="-1" name="General Tests" number="2" />
+    <category ID="-1" name="HF Interface" number="3" />
+    <category ID="-1" name="Battery Tests" number="4" />
+    <category ID="-1" name="Destructive Tests" number="5" />
+    <category ID="-1" name="Climate Tests" number="6" />
+    <category ID="-1" name="Replaced Procedures" number="7" />
+  </mainCategory>
+  <mainCategory ID="-1" name="Electrical Functional" number="2">
+    <category ID="-1" name="Electrical Functional" number="1" />
+  </mainCategory>
+  <mainCategory ID="-1" name="Functional" number="3">
+    <category ID="-1" name="Functional" number="1" />
+  </mainCategory>
+  <mainCategory ID="-1" name="Lifetime Estimation" number="4">
+    <category ID="-1" name="Lifetime Estimation" number="1" />
+  </mainCategory>
+  <mainCategory ID="-1" name="Environmental" number="5">
+    <category ID="-1" name="Operation" number="1" />
+    <category ID="-1" name="Storage" number="2" />
+  </mainCategory>
+  <mainCategory ID="-1" name="EMC" number="6">
+    <category ID="-1" name="EMC" number="1" />
+    <category ID="-1" name="R&amp;TTE" number="2" />
+    <category ID="-1" name="ESD" number="3" />
+  </mainCategory>
+  <mainCategory ID="-1" name="Risk Analysis" number="7">
+    <category ID="-1" name="Risk Analysis" number="1" />
+  </mainCategory>
+  <mainCategory ID="-1" name="Certification" number="8">
+    <category ID="-1" name="UL" number="1" />
+    <category ID="-1" name="FCC" number="2" />
+    <category ID="-1" name="TÜV" number="3" />
+    <category ID="-1" name="CE General" number="4" />
+  </mainCategory>
+  <mainCategory ID="-1" name="Aging" number="9">
+    <category ID="-1" name="Aging" number="1" />
+  </mainCategory>
+  <mainCategory ID="-1" name="Mechanical" number="10">
+    <category ID="-1" name="Mechanical" number="1" />
+  </mainCategory>
+  <mainCategory ID="-1" name="Quality Assurance" number="11">
+    <category ID="-1" name="Quality Assurance" number="1" />
+  </mainCategory>
+  <mainCategory ID="-1" name="Misc" number="12">
+    <category ID="-1" name="Misc" number="1" />
+  </mainCategory>
+</categoryTree>

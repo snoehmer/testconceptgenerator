@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<configurationList>
+  <configuration key="NrOfMainCategories" value="12" comment="number of main categories (tabs) in the Excel template" />
+  <configuration key="TestsStartRow" value="95" comment="the first row used to enter tests in the Excel template" />
+  <configuration key="PRevisionCol" value="2" comment="the column for the Product Revision field" />
+  <configuration key="BOMVersionCol" value="3" comment="the column for the BOM Version field" />
+  <configuration key="CategoryCol" value="4" comment="the column for the Test Category field" />
+  <configuration key="PriorityCol" value="5" comment="the column for the Priority field" />
+  <configuration key="TPNrCol" value="6" comment="the column for the Product TP Number field" />
+  <configuration key="TPNameCol" value="7" comment="the column for the TP Name field" />
+  <configuration key="TestDoneCol" value="10" comment="the column for the Test Done field" />
+  <configuration key="TestTesterCol" value="11" comment="the column for the Tester field" />
+  <configuration key="TestDateCol" value="12" comment="the column for the Test Date field" />
+  <configuration key="TestRefIDCol" value="13" comment="the column for the Test Reference ID field" />
+  <configuration key="TestRemarksCol" value="14" comment="the column for the Test Remarks field" />
+  <configuration key="TestCompletedCol" value="15" comment="the column for the Test Completed field" />
+  <configuration key="GeneralRemarksCol" value="16" comment="the column for the General Remarks field" />
+  <configuration key="ProtocolFileCol" value="18" comment="the column for the Protocol File/Directory field" />
+  <configuration key="ProtocolBrowseFileCol" value="19" comment="the column for the Protocol File Browse Button field" />
+  <configuration key="ProtocolBrowseDirCol" value="20" comment="the column for the Protocol Directory Browse Button field" />
+  <configuration key="ProtocolLocationCol" value="21" comment="the column for the Protocol Location field" />
+  <configuration key="ProtocolLocationBrowseCol" value="22" comment="the column for the Protocol Location Browse Button field" />
+  <configuration key="ReviewCompletedCol" value="23" comment="the column for the Review Completed field" />
+  <configuration key="ReviewReviewerCol" value="24" comment="the column for the Reviewer field" />
+  <configuration key="ReviewDateCol" value="25" comment="the column for the Review Date field" />
+  <configuration key="ReviewRemarksCol" value="26" comment="the column for the Review Remarks field" />
+  <configuration key="AdditionalRemarksCol" value="27" comment="the column for the Additional Remarks field" />
+  <configuration key="ExcelOverviewTemplateFilename" value="testing_overview_v1.2_template.xltm" comment="file name of the corresponding Excel template" />
+</configurationList>
